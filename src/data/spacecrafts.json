@@ -1,0 +1,13 @@
+[
+  {
+  "ID": "republic-cruiser",
+  "Name": "Republic Cruiser (Radiant VII)",
+  "Slug": "republic-cruiser",
+  "Model": "Consular-class",
+  "Class": "Diplomatic Vessel",
+  "Manufacturer": "Corellian Engineering Corporation",
+  "First Appearance": "Episode I - The Phantom Menace",
+  "Image URL": "/images/republic-cruiser.jpeg",
+  "Description": "Diplomatic vessel delivering Qui-Gon Jinn and Obi-Wan to Naboo."
+  }
+]
